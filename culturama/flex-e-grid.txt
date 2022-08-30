@@ -1,0 +1,45 @@
+aula 1 cabeçalho com flex
+
+aula 2 banner com grid
+
+aula 3 
+
+aula 4 eventos e agenda grid
+* finalizar os dois containers no desafio com flex
+
+5 categorias e título destaques com flex
+* finalizar container categorias no desafio com grid
+
+aula 5 rodapé com flex
+
+RASCUNHO ORGANIZAÇÃO DAS AULAS
+
+# Aula 1 - Hello Culturama!
+1.1 Apresentacao
+1.2 Combo do flex
+1.3 Alinhando eixos
+1.4 Container x item
+
+# Aula 2 - Play no grid
+2.1 Grid lines
+2.2 Trocando a posição dos Grid Items
+2.3 Minmax
+
+# Aula 3 - 
+3.1 Alterando eixos
+3.2 Aumentando itens com flex
+3.3 Estilizando elementos na div
+
+# Aula 4 - Avançando no Grid
+4.1 - Áreas do Grid
+4.2 - Alinhamentos no Grid
+4.3 - Calculando alturas e larguras
+
+*(Desafio finalizar com flex seções próximos eventos e coloque na sua agenda)
+
+# Aula 5 - 
+5.1 Alinhamentos no Flex
+5.2 
+5.3 Conclusão
+
+*(Desafio finalizar container categorias com grid)

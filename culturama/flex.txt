@@ -1,0 +1,175 @@
+
+# Aula 1 - Começando com Flexbox
+
+vídeo 1.1 Apresentacao
+
+vídeo 1.2 
+
+.cabecalho {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    column-gap: 33px;
+}
+
+vídeo 1.3 
+
+@media(min-width: 720px) {
+
+    /* Header */
+    .cabecalho {
+        column-gap: 75px;
+        align-items: center;
+    }
+
+}
+
+vídeo 1.4 
+
+@media(min-width: 1440px) {
+
+    /* Header */
+    .cabecalho {
+        column-gap: 105px;
+    }
+
+    .cabecalho__titulo {
+        order: 1;
+    }
+
+    .cabecalho__programacao {
+        order: 3;
+    }
+
+    .cabecalho__categorias {
+        order: 4;
+    }
+
+    .cabecalho__seu-local {
+        order: 5;
+    }
+
+    .cabecalho__pesquisar {
+        order: 2;
+    }
+}
+
+vídeo 3.1
+
+.categorias__lista {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+} 
+
+.categorias__destaques {
+    display: flex;
+    flex-direction: column;
+}
+
+vídeo 3.2
+
+@media(min-width: 720px) {
+
+    /* Categorias */
+    .categorias__lista {
+        column-gap: 1.5rem;
+        flex-wrap: wrap;
+        row-gap: 1rem;
+    }
+
+    .categorias__item {
+        flex-grow: 1;
+    }
+}
+
+vídeo 3.3
+
+.destaques__titulo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.destaques__barra {
+    flex-grow: 1;
+}
+
+vídeo 5.1
+
+.rodape {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 1rem;
+    justify-content: space-between;
+}
+
+.rodape__logo {
+    justify-content: center;
+}
+
+.rodape__logo {
+    align-self: end;
+}
+
+vídeo 5.2 Otimizando o projeto
+
+vídeo 5.3 - Conclusão
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+falar sobre flex-item no header para organizar a logo à esquerda
+
+header: 
+
+organizar com flexbox
+
+banner:
+
+organizar com grid
+
+destaques: 
+
+organizar com grid
+
+próximos eventos:
+
+itens organizados com flexbox
+o interior dos itens organizados com grid
+
+coloque na sua agenda:
+
+ul organizar com flexbox
+
+li organizar com grid
+
+rodapé:
+
+flexbox
